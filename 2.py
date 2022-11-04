@@ -1,0 +1,3 @@
+a = int(input('ENTER THE TEMPERATURE IN CELSIUS: '))
+b = (a*1.8)+32
+print(f'TEMPERATURE IN FARENHEIT IS: {b}')
