@@ -1,0 +1,5 @@
+hello
+hi
+helloworld
+sample
+text
