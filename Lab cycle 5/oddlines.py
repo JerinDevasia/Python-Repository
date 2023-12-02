@@ -18,4 +18,4 @@ fle.close()
 
 for i in rfle:
     print(i)
-
+rfle.close()
